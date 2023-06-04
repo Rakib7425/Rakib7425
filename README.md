@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Rakib7425
 - 👀 I’m interested in F.S.Web Dev.
+- 😍Skills- HTML, CSS ,Js ,React....
 - 🌱 I’m currently learning DSA with JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 wApp +91 91019 10265
