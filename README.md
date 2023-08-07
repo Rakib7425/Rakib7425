@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakib7425
 - 👀 I’m interested in F.S.Web Dev.
 - 😍Skills- HTML, CSS, Tailwind, Js, React....
-- ######🌱 I’m currently learning DSA with JAVA && React.
+- #🌱 I’m currently learning DSA with JAVA && React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 wApp +91 91019 10265
 
