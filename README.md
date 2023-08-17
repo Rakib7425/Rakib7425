@@ -42,7 +42,7 @@
   <a href="irakibul026@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="+91 91019-10265" target="_blank">
+  <a href="[+91 91019-10265](https://web.whatsapp.com/send?phone=919101910265&text=Hello%20from%20Github!)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="433220619065229334" target="_blank">
