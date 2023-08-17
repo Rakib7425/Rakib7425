@@ -1,5 +1,10 @@
-<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm a Frontend Developer (React), from India</h2>
+<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm a Frontend Developer (React), from India.</h2>
 
+
+- 👋 Hi, I’m @Rakib7425- 👀 I’m interested in F.S.Web Dev.- 😍
+- 🌱 # I’m currently learning Frontend with React.js && Next.js.-
+- 💞️ I’m looking to collaborate on ...-
+- 📫 wApp +91 91019 10265
 ###
 
 <img align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
