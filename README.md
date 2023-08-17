@@ -39,7 +39,7 @@
   <a href="https://newtonschool-t4o6843.slack.com/team/U04BWRX4G0P" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
-  <a href="irakibul026@gmail.com" target="_blank">
+  <a href="mailto:irakibul026@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://web.whatsapp.com/send?phone=919101910265&text=Hello%20from%20Github!" target="_blank">
