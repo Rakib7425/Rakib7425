@@ -53,4 +53,5 @@
   </a>
 </div>
 
+<h3>Ctrl(command) Click to open a new tab.</h3>
 ###
