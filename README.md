@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm a Fromtend Developer, from Assam, India</h2>
+<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm a Frontend Developer, from Assam, India</h2>
 
 ###
 
