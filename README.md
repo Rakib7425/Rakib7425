@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm a Web-Developer (MERN), from India.</h2>
+<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm (MERN) Web-Developer , from India.</h2>
 
 
 - 👋 I’m interested in F.S.Web Dev.- 😍
