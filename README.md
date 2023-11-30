@@ -2,7 +2,7 @@
 
 
 - 👋 I’m interested in F.S.Web Dev.- 😍
-- 🌱 # I’m currently learning Frontend with React.js && Next.js.-
+- 🌱 # I’m currently learning Backend with Express.js && MongoDB-
 - 💞️ I’m looking to collaborate on ...-
 - 📫 wApp +91 91019 10265
 ###
