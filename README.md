@@ -77,15 +77,22 @@
 
 <br/> 
  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact" alt="rakib7425" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en" alt="rakib7425" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&" alt="rakib7425" /></p>
+<p align="center">
+  <!-- <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en" alt="GitHub Stats">
+  </a> -->
+  <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&" alt="GitHub Streak">
+  </a>
+  <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  </a>
+</p>
+<p align="center">
+  
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib7425" alt="rakib7425" /></a> </p>
- 
 
 ###
 
