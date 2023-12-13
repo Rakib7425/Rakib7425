@@ -76,23 +76,13 @@
 </div>
 
 <br/> 
- 
-<p align="center">
-  <!-- <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en" alt="GitHub Stats">
-  </a> -->
-  <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/rakib7425" style="width: 45%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-  </a>
-</p>
-<p align="center">
-  
-</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib7425" alt="rakib7425" /></a> </p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en)](https://github.com/rakib7425)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&)](https://github.com/rakib7425)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact)](https://github.com/rakib7425)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakib7425)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ###
 
