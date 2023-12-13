@@ -77,7 +77,7 @@
 
 <br/> 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en)](https://github.com/rakib7425)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en)](https://github.com/rakib7425) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&)](https://github.com/rakib7425)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact)](https://github.com/rakib7425)
 
