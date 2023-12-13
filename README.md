@@ -75,10 +75,17 @@
   </a>
 </div>
 
+<br/> 
+ 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact" alt="rakib7425" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib7425&show_icons=true&locale=en&layout=compact" alt="rakib7425" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib7425&show_icons=true&locale=en" alt="rakib7425" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib7425&" alt="rakib7425" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib7425" alt="rakib7425" /></a> </p>
+ 
 
 ###
 
