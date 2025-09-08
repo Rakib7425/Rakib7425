@@ -1,11 +1,21 @@
 <h2 align="left">Hi 👋! My name is Rakibul Islam and I'm (MERN) Web-Developer as well as BUG Finder , from India.</h2>
 
 
-- 👋 I’m interested in F.S.Web Dev.- 😍
+- 👋 I’m interested in F.S.Web Dev & DevOps.- 😍
 - 🌱 # I’m currently learning n8n, Loki, Graphana and Kafka-
-- 💞️ I’m looking to collaborate on ...-
-- 📫 wApp +91 91019 10265
-- 📧 e-mail <a link="mailto:rakib.dev@icloud.com">rakib.dev@icloud.com</a>
+- 📱 WhatsApp: **+91 91019 10265**
+- 📧 Email: [rakib.dev@icloud.com](mailto:rakib.dev@icloud.com)
+
+- ### 💞️ Open to Collaborations On
+- Web development projects (Frontend + Backend)  
+- DevOps pipelines, CI/CD, and automation workflows  
+- Open-source contributions in the DevOps & Web Dev ecosystem.
+  
+### 🌱 Currently Learning
+- ⚙️ [n8n](https://n8n.io/) – Workflow Automation  
+- 📊 [Loki](https://grafana.com/oss/loki/) & [Grafana](https://grafana.com/) – Observability & Monitoring  
+- 🔄 [Kafka](https://kafka.apache.org/) – Event Streaming
+- 
 ###
 
 <img align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
