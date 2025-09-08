@@ -5,7 +5,8 @@
 - 📧 Email: [rakib.dev@icloud.com](mailto:rakib.dev@icloud.com)
 
 - ### 💞️ Open to Collaborations On
-- Web development projects (Frontend + Backend)  
+- Web development projects (Frontend + Backend)
+- App development projects (Frontend + Backend)(React Native)
 - DevOps pipelines, CI/CD, and automation workflows  
 - Open-source contributions in the DevOps & Web Dev ecosystem.
   
