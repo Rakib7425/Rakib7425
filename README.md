@@ -2,9 +2,10 @@
 
 
 - 👋 I’m interested in F.S.Web Dev.- 😍
-- 🌱 # I’m currently learning Backend with Express.js && MongoDB-
+- 🌱 # I’m currently learning n8n, Loki, Graphana and Kafka-
 - 💞️ I’m looking to collaborate on ...-
 - 📫 wApp +91 91019 10265
+- 📧 e-mail rakib.dev@icloud.com
 ###
 
 <img align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
@@ -61,7 +62,7 @@
   <a href="https://newtonschool-t4o6843.slack.com/team/U04BWRX4G0P" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" title='Ctrl(command) Click to open slack.' />
   </a>
-  <a href="mailto:irakibul026@gmail.com" target="_blank">
+  <a href="mailto:rakib.dev@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://web.whatsapp.com/send?phone=919101910265&text=Hello%20from%20Github!" target="_blank">
