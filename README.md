@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rakibul Islam and I'm (MERN) Web-Developer as well as BUG Finder , from India.</h2>
+<h2 align="left">⭐️ _“Code. Automate. Scale. Develop Web-Applications. Build Native-Apps.”_ (Repeat)</h2>
 
-
-- 👋 I’m interested in F.S.Web Dev & DevOps.- 😍
-- 🌱 # I’m currently learning n8n, Loki, Graphana and Kafka-
+### 👋 Hi there, Rakib here!
 - 📱 WhatsApp: **+91 91019 10265**
 - 📧 Email: [rakib.dev@icloud.com](mailto:rakib.dev@icloud.com)
 
