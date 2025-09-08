@@ -5,7 +5,7 @@
 - 🌱 # I’m currently learning n8n, Loki, Graphana and Kafka-
 - 💞️ I’m looking to collaborate on ...-
 - 📫 wApp +91 91019 10265
-- 📧 e-mail rakib.dev@icloud.com
+- 📧 e-mail <a link="mailto:rakib.dev@icloud.com">rakib.dev@icloud.com</a>
 ###
 
 <img align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
